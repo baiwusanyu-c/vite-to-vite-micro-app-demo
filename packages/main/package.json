@@ -1,0 +1,14 @@
+{
+  "name": "main",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@micro-zoe/micro-app": "^0.8.5",
+    "vue-router": "^4.0.14"
+  }
+}
