@@ -1,4 +1,4 @@
-### 基于nomo repo的 vite micro app 微前端demo
+### 基于monorep 的 vite micro app 微前端demo
 * 主应用 vite + Vue3 + ts
 * 子用于 vite + Vue3 + ts
 * 包管理工具 pnpm
